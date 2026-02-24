@@ -1,0 +1,300 @@
+====================================================
+  US HIGH SCHOOL EDUCATIONAL POLICIES & INFORMATION
+  Sources: U.S. Department of Education, College Board,
+  NACAC, Common Core State Standards Initiative, NICHE
+====================================================
+
+=== SECTION 1: GRADUATION REQUIREMENTS ===
+
+High school in the United States typically spans grades 9 through 12 (ages 14–18).
+To graduate, most states require students to earn between 20 and 26 Carnegie Units (credits).
+One Carnegie Unit equals one full year of study in a single subject.
+
+Common required subjects for graduation (varies by state):
+- English Language Arts (ELA): 4 credits
+- Mathematics: 3–4 credits (Algebra I, Geometry, Algebra II or higher)
+- Science: 3–4 credits (Biology, Chemistry or Physics required in most states)
+- Social Studies / History: 3–4 credits (U.S. History, World History, Government/Civics, Economics)
+- Physical Education: 1–2 credits
+- Health Education: 0.5–1 credit
+- Fine Arts or Career/Technical Education (CTE): 1–2 credits
+- Electives: remaining credits to meet total requirement
+
+Students must also typically pass state standardized exit exams in many states (e.g., STAAR in Texas, Regents in New York, CAASPP in California).
+
+A student's Grade Point Average (GPA) is calculated on a 4.0 scale (unweighted) or up to a 5.0 scale (weighted for AP/IB courses):
+- A (90–100) = 4.0 unweighted / 5.0 weighted (AP/IB)
+- B (80–89)  = 3.0 unweighted / 4.0 weighted
+- C (70–79)  = 2.0 unweighted / 3.0 weighted
+- D (60–69)  = 1.0 unweighted
+- F (below 60) = 0.0 — failing; credit not earned
+
+Students must maintain a minimum GPA (usually 2.0) to remain in good academic standing.
+
+=== SECTION 2: STANDARDIZED TESTS ===
+
+SAT (Scholastic Assessment Test):
+- Administered by the College Board.
+- Sections: Reading & Writing, and Math.
+- Score range: 400–1600.
+- Administered 7 times per year (Aug, Oct, Nov, Dec, Mar, May, Jun).
+- Fee: ~$60 (fee waivers available for low-income students).
+- Students may retake the SAT multiple times; colleges often use the highest score (Superscore).
+- SAT School Day is offered for free at some schools.
+
+ACT (American College Testing):
+- Administered by ACT, Inc.
+- Sections: English, Mathematics, Reading, Science, optional Writing.
+- Score range: 1–36 (composite average of four sections).
+- Administered 7 times per year.
+- Fee: ~$68 without writing, ~$93 with writing.
+- Fee waivers are available for 11th and 12th graders who qualify.
+
+PSAT/NMSQT:
+- Preliminary SAT / National Merit Scholarship Qualifying Test.
+- Taken in 10th or 11th grade; serves as practice for SAT.
+- Score range: 320–1520.
+- High scorers (top ~1%) in 11th grade may qualify for National Merit Scholarships.
+
+AP (Advanced Placement) Exams:
+- Created and administered by College Board.
+- Taken at the end of AP courses in May.
+- Score range: 1–5. Scores of 3, 4, or 5 may earn college credit (depends on the college).
+- Fee: ~$98 per exam; reduced fee for low-income students.
+- Popular AP subjects: AP Calculus AB/BC, AP English Language, AP U.S. History, AP Biology, AP Chemistry, AP Computer Science, AP Spanish, AP Psychology.
+
+IB (International Baccalaureate) Exams:
+- Part of the IB Diploma Programme for grades 11–12.
+- Score range: 1–7 per subject; maximum total of 45 points.
+- Recognized globally; many colleges grant college credit for scores of 4 or higher.
+
+CLEP (College-Level Examination Program):
+- Allows students to earn college credit by passing exams.
+- Score range: 20–80; a score of 50 is generally considered passing.
+- Useful for earning credit in subjects where students are self-taught.
+
+=== SECTION 3: COLLEGE ADMISSIONS ===
+
+Application Platforms:
+- Common Application (CommonApp): accepted by 900+ colleges; students write one main essay plus supplements.
+- Coalition Application: alternative to Common App, used by ~150 schools.
+- UC Application: used exclusively for University of California campuses.
+- School-specific portals: some schools (MIT, Georgetown) use their own systems.
+
+Application Deadlines (typical):
+- Early Decision (ED): Binding; typically November 1 or November 15. Acceptance rates are usually higher.
+- Early Action (EA): Non-binding; typically November 1 or November 15.
+- Regular Decision (RD): Typically January 1 or January 15.
+- Rolling Admissions: Applications reviewed as received; no fixed deadline.
+
+Key Application Components:
+- High school transcript and GPA
+- Standardized test scores (SAT/ACT) — many schools are currently test-optional
+- Letters of recommendation (usually 2 from teachers, 1 from school counselor)
+- Personal essay (650 words for CommonApp)
+- Extracurricular activities list
+- Application fee ($50–$90; waivers available)
+
+Demonstrated Interest: Some colleges track whether applicants visit campus, attend info sessions, or email admissions offices — this can slightly boost admission chances.
+
+Test-Optional Policies: As of 2025, many universities remain test-optional, meaning students may choose whether to submit SAT/ACT scores.
+
+=== SECTION 4: FINANCIAL AID & SCHOLARSHIPS ===
+
+FAFSA (Free Application for Federal Student Aid):
+- Must be submitted annually to qualify for federal grants, loans, and work-study.
+- Opens October 1 each year for the following academic year.
+- Based on family income and assets.
+- FAFSA ID (FSA ID) required for student and one parent.
+- CSS Profile: additional form required by ~400 private colleges for institutional aid.
+
+Federal Aid Types:
+- Pell Grant: need-based; does not need to be repaid; up to ~$7,395/year (2024–25).
+- Federal Subsidized Loans: interest does not accrue while in school; need-based.
+- Federal Unsubsidized Loans: available to all students; interest accrues immediately.
+- Federal Work-Study: part-time jobs on or near campus funded by the federal government.
+
+Scholarship Types:
+- Merit-based: awarded for academic, athletic, or artistic achievement.
+- Need-based: awarded based on financial need.
+- Demographic-based: for specific groups (first-generation, minority, women in STEM, etc.).
+- Local scholarships: offered by community organizations, businesses, local foundations.
+
+Notable Scholarships:
+- National Merit Scholarship: based on PSAT/NMSQT scores.
+- Gates Scholarship: full ride for outstanding minority students with financial need.
+- Coca-Cola Scholars Program: 150 awards of $20,000 each.
+- Dell Scholars Program: for students who have overcome significant obstacles.
+- Questbridge: matches high-achieving low-income students with top colleges (full scholarship).
+- Horatio Alger Scholarship: for students who have overcome adversity; up to $25,000.
+
+Scholarships are NOT the same as loans — scholarships do not need to be repaid.
+
+=== SECTION 5: ACADEMIC PROGRAMS & COURSE OPTIONS ===
+
+Honors Courses:
+- More rigorous than standard courses.
+- Weighted on a 5.0 GPA scale in many schools.
+- Good preparation for AP or IB classes.
+
+AP (Advanced Placement):
+- College-level courses offered in high school.
+- Students can earn college credit if they score 3 or higher on AP exams.
+- High AP course load demonstrates college readiness to admissions officers.
+
+IB (International Baccalaureate) Diploma Programme:
+- Offered at IB World Schools.
+- Students take 6 subjects at Higher Level (HL) or Standard Level (SL), plus:
+  - Theory of Knowledge (TOK) essay
+  - Extended Essay (EE) — a 4,000-word independent research paper
+  - CAS (Creativity, Activity, Service) hours
+- Recognized by universities worldwide.
+
+Dual Enrollment:
+- High school students take actual college courses (at a community college or university).
+- Credits count toward both high school graduation and college degree.
+- Usually free or low-cost for high school students through state programs.
+
+Career and Technical Education (CTE):
+- Programs in fields like healthcare, IT, culinary arts, automotive, business, and more.
+- Some CTE programs lead to industry certifications.
+- CTE pathways can lead to apprenticeships, associate degrees, or workforce entry.
+
+=== SECTION 6: STUDENT RIGHTS & SCHOOL POLICIES ===
+
+Students have the right to:
+- A free public K–12 education (guaranteed by state constitutions).
+- A safe and respectful learning environment free from bullying and harassment.
+- Privacy of educational records (FERPA — Family Educational Rights and Privacy Act).
+- Access to school counselors for academic and personal guidance.
+- Accommodations for disabilities (Section 504 of the Rehabilitation Act; IDEA for special education).
+
+FERPA (Family Educational Rights and Privacy Act):
+- Parents have the right to access and correct their child's educational records.
+- Students gain these rights at age 18 or when they enter postsecondary education.
+- Schools may not release student records to third parties without consent (with exceptions for legitimate educational interests).
+
+IEP (Individualized Education Program):
+- For students with qualifying disabilities (learning disabilities, ADHD, autism, speech impairments, etc.).
+- Created by a team including teachers, parents, and specialists.
+- Outlines accommodations, modifications, and goals tailored to the student.
+
+504 Plan:
+- For students with disabilities that affect learning but do not require special education services.
+- Common accommodations: extended test time, preferential seating, reduced assignments.
+
+Anti-Bullying Policies:
+- Every U.S. state has anti-bullying laws.
+- Cyberbullying is also addressed in most state laws.
+- Schools are required to investigate and respond to bullying complaints.
+
+Attendance Policies:
+- Most states require students under 18 to attend school (compulsory education laws).
+- Excessive absences (usually 10+ unexcused) may result in academic penalties or referral to authorities (truancy).
+- Excused absences include illness (with doctor's note), family emergencies, religious observances.
+
+Dress Code and School Rules:
+- Schools may enforce dress codes and uniforms.
+- Students retain First Amendment rights (freedom of expression) in schools, but schools may restrict speech that is disruptive.
+
+=== SECTION 7: COLLEGE-READINESS & CAREER PLANNING ===
+
+Four-Year College / University:
+- Leads to a Bachelor's degree (B.A. or B.S.) after 4 years.
+- Selective admissions process.
+- Average annual cost: $25,000–$60,000 (tuition, room, board).
+
+Community College:
+- Two-year programs leading to Associate's degrees or certificates.
+- Open admissions (no competitive application required).
+- Much more affordable: average ~$3,500/year tuition.
+- Transfer pathway to a 4-year university after 2 years.
+
+Vocational / Trade School:
+- Programs typically 6 months to 2 years.
+- Leads to certifications in skilled trades: electrician, plumber, HVAC, cosmetology, etc.
+- High job placement rates and strong earning potential.
+
+Military Service:
+- ROTC (Reserve Officers' Training Corps) scholarships available for college students.
+- Enlisting provides education benefits through the GI Bill.
+- ASVAB (Armed Services Vocational Aptitude Battery) is the entrance exam.
+
+Gap Year:
+- A structured year off between high school and college.
+- Can include volunteering, travel, internships, or work.
+- Many colleges allow gap year deferrals.
+
+Career Exploration Resources:
+- O*NET Online (onetonline.org): comprehensive career database from the U.S. Department of Labor.
+- Bureau of Labor Statistics Occupational Outlook Handbook: job growth, salary, and education requirements.
+- CareerOneStop (careeronestop.org): tools for career exploration and training finder.
+- Khan Academy: free academic preparation for SAT, AP, and more.
+- College Board BigFuture (bigfuture.collegeboard.org): scholarship search, college matching tools.
+
+=== SECTION 8: MENTAL HEALTH & WELLNESS ===
+
+Mental health is as important as academic performance. Students are encouraged to:
+- Seek help from school counselors for stress, anxiety, or personal issues.
+- Use school-based mental health services (many schools now have social workers and psychologists on staff).
+- Contact the 988 Suicide & Crisis Lifeline (call or text 988) for immediate mental health crises.
+- Practice healthy habits: 8–10 hours of sleep for teens, regular exercise, balanced nutrition.
+
+Academic stress management tips:
+- Break large tasks into smaller steps.
+- Use planners or apps to organize deadlines.
+- Avoid cramming — spaced repetition is more effective for studying.
+- Form study groups for challenging subjects.
+
+=== SECTION 9: EXTRACURRICULAR ACTIVITIES ===
+
+Colleges look for well-rounded students who demonstrate leadership, passion, and commitment.
+Common categories of extracurriculars:
+- Academic clubs: Math Olympiad, Science Olympiad, Debate Team, Model UN, Quiz Bowl.
+- Arts: band, orchestra, choir, drama/theater, art club, creative writing.
+- Athletics: school sports teams, club sports, martial arts.
+- Community service: Key Club, National Honor Society (NHS), volunteering.
+- Student government: class officer, student body president, school board student representative.
+- STEM: robotics club, coding club, Science Fair, FIRST Robotics.
+- Work experience and internships: counted as extracurriculars by many colleges.
+
+National Honor Society (NHS):
+- Recognizes students with a GPA of 3.0 or higher (many chapters require 3.5+).
+- Based on four pillars: Scholarship, Service, Leadership, and Character.
+- Membership is beneficial for college applications.
+
+=== SECTION 10: FREQUENTLY ASKED QUESTIONS ===
+
+Q: What GPA do I need to get into a good college?
+A: Competitive colleges generally look for a 3.5–4.0 unweighted GPA. Selective schools (Ivy League) average 3.9+. Community colleges accept all students regardless of GPA.
+
+Q: Is the SAT or ACT better?
+A: Neither is universally better. The SAT emphasizes reading/writing plus math; the ACT includes a science section. Students should try both and submit whichever score is higher.
+
+Q: How many AP classes should I take?
+A: Quality over quantity. Taking 4–8 AP classes throughout high school is typical for highly competitive applicants. Avoid overloading yourself to the point of burnout.
+
+Q: What is a good SAT score?
+A: The national average is around 1010–1060. A score of 1200+ is generally considered competitive; 1400+ is strong for selective colleges; 1550+ is in the top 1%.
+
+Q: Can I go to college if my GPA is low?
+A: Yes. Community colleges have open admissions. Some four-year schools also accept students with lower GPAs, especially if there are upward trends or strong test scores.
+
+Q: What is the difference between Early Decision and Early Action?
+A: Early Decision (ED) is binding — if accepted, you MUST attend and withdraw all other applications. Early Action (EA) is non-binding — you can still compare offers and decide by May 1.
+
+Q: What is the National College Acceptance Day?
+A: May 1 is the traditional deadline for students to notify their chosen college of their decision to enroll (for Regular Decision admits).
+
+Q: Do colleges care about freshman year grades?
+A: Yes, freshman year grades appear on the transcript. However, an upward trend (improving GPA over four years) is viewed positively.
+
+Q: What is a fee waiver?
+A: A fee waiver waives the application or exam fee for students who demonstrate financial need. Students should ask their school counselor about eligibility.
+
+Q: What should be in a college essay?
+A: The college personal essay (650 words max for CommonApp) should be authentic, specific, and reveal something meaningful about who you are. Avoid clichés like sports injury or mission trip essays. Focus on personal growth, unique perspective, or a defining experience.
+
+====================================================
+END OF DOCUMENT
+====================================================

@@ -1,0 +1,61 @@
+# ── Secrets ─────────────────────────────────────────────────────
+# Never commit your API key
+.env
+
+# ── Local vector database ────────────────────────────────────────
+# Auto-rebuilt on first run — no need to track in git
+chroma_db/
+
+# ── Python cache & compiled files ───────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ── Virtual environment ──────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Distribution / packaging ─────────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+.eggs/
+
+# ── Testing & coverage ───────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# ── Type checkers & linters ──────────────────────────────────────
+.mypy_cache/
+.ruff_cache/
+
+# ── Jupyter Notebooks ────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── IDEs & editors ───────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── macOS metadata ───────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── Windows metadata ─────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ── Logs ─────────────────────────────────────────────────────────
+*.log
+logs/
