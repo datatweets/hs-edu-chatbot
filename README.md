@@ -85,7 +85,7 @@ policies.txt
 ## 2. Project structure
 
 ```
-OpenAI-chatbot/
+hs-edu-chatbot/
 │
 ├── chatbot.py           # Terminal chatbot — full RAG pipeline
 ├── app.py               # Flask web server — wraps chatbot.py for the browser
@@ -141,7 +141,7 @@ pip --version
 
 **Option A — Download ZIP** (no Git required):
 1. Download the project as a ZIP file.
-2. Unzip it to a folder, e.g. `Documents/OpenAI-chatbot`.
+2. Unzip it to a folder, e.g. `Documents/hs-edu-chatbot`.
 
 **Option B — Git clone**:
 ```bash
@@ -202,7 +202,7 @@ After activation your terminal prompt will change to show `(.venv)` at the
 start — this confirms the environment is active:
 
 ```
-(.venv) user@computer OpenAI-chatbot %
+(.venv) user@computer hs-edu-chatbot %
 ```
 
 To deactivate later (when you are done):
