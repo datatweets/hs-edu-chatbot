@@ -153,10 +153,10 @@ Then open a terminal and navigate into the project folder:
 
 ```bash
 # macOS / Linux
-cd ~/Documents/OpenAI-chatbot
+cd ~/Documents/hs-edu-chatbot
 
 # Windows
-cd C:\Users\YourName\Documents\OpenAI-chatbot
+cd C:\Users\YourName\Documents\hs-edu-chatbot
 ```
 
 ---
