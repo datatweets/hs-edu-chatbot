@@ -1,5 +1,7 @@
 # EduBot — US High School Educational Chatbot
 
+[![GitHub](https://img.shields.io/badge/GitHub-hs--edu--chatbot-1a3a6b?logo=github)](https://github.com/datatweets/hs-edu-chatbot)
+
 A **Retrieval-Augmented Generation (RAG)** chatbot that answers US high school
 students' questions about graduation, college admissions, financial aid,
 standardized tests, student rights, career planning, and more — powered by
@@ -143,8 +145,8 @@ pip --version
 
 **Option B — Git clone**:
 ```bash
-git clone <repository-url>
-cd OpenAI-chatbot
+git clone https://github.com/datatweets/hs-edu-chatbot.git
+cd hs-edu-chatbot
 ```
 
 Then open a terminal and navigate into the project folder:
@@ -468,4 +470,8 @@ sessions before any billing begins.
 > Answers are based on the content of `policies.txt` which was compiled from
 > publicly available US educational resources. Always confirm important
 > academic or financial decisions with your school counselor.
+
+---
+
+**Repository:** https://github.com/datatweets/hs-edu-chatbot
 

@@ -11,7 +11,9 @@
 
   Run:
     python app.py
-  Then open:  http://127.0.0.1:5000
+  Then open:  http://127.0.0.1:8080
+
+  Repository: https://github.com/datatweets/hs-edu-chatbot
 ======================================================
 """
 
@@ -91,4 +93,4 @@ if __name__ == "__main__":
         print("[ERROR] OPENAI_API_KEY is not set. Add it to your .env file.")
     else:
         # debug=False for a clean production-like experience
-        app.run(host="127.0.0.1", port=5000, debug=False)
+        app.run(host="127.0.0.1", port=8080, debug=False)
